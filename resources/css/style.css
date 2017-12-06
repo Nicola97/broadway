@@ -1,0 +1,57 @@
+.immagine
+{
+  background-image: url(/home/nicola/projects/broadway/resources/images/building.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.white
+{
+  color: white;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+body
+{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+a{
+ color:white;
+ font-size: 18px;
+ }
+
+ footer
+ {
+   background-color: dimgray;
+   font-size: 11px;
+   text-align: left;
+ }
+
+h1
+{
+  font-size: 70px;
+}
+
+h2
+{
+  font-size: 32px;
+}
+h3
+{
+  font-size: 23px;
+  font-weight: bold;
+}
+.line
+{
+  font-size: 14px;
+}
+p
+{
+  font-size: 23px;
+}
