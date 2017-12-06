@@ -1,6 +1,6 @@
 .immagine
 {
-  background-image: url(resources/images/building.png);
+  background-image: url(./resources/images/building.png);
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
